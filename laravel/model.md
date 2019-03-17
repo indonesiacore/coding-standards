@@ -1,4 +1,4 @@
-All models should be put on `Models` folder
+All models should be put on `app/Models` folder
 
 All models filename should follow `CammelCase`
 
